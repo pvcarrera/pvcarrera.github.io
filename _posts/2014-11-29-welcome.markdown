@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-11-29 11:27:56
+categories: general
+---
+For you who don’t know me, I see myself as a software developer and a sportsman. I’m not entirely
+ sure which of both I feel more passionate about.
+
+During the last few years, I’ve been trying to create a personal blog but I could never find the
+ inspiration to get on with it. But now I’m about to start a new stage in my life which will
+ hopefully be full of challenges and changes. Thus, I’m feeling that this could be the right time
+ to give it a try.
+
+I would like to start with a set of rules for my blog:
+
+* Content doesn’t matter. Posts can be about software developing, working out, or
+ whatever is in my mind when I'm writing the article.
+* Articles should be written in a maximum of 2 [pomodoros][pomodoro]
+* These rules can change in time, their purpose is to keep me focused.
+
+Things that I would like to achieve through this blog:
+
+* Improving my communication skills.
+* Reinforcing my weekly technical learning.
+* Keeping track of my workouts and fitness progress.
+* Building a personal brand.
+* Getting out of my comfort zone and opening my mind.
+* Organising my ideas.
+
+Welcome to my blog!
+
+[pomodoro]: http://pomodorotechnique.com/
