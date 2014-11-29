@@ -1,6 +1,7 @@
 # Site settings
 title: Tiger & Dormouse
 email: vicapa99@gmail.com
+author: Pablo Vicente
 description: >
   Thoughts of a mountain based software developer.
 baseurl: "" # the subpath of your site, e.g. /blog/
