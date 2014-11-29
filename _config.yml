@@ -5,7 +5,7 @@ description: >
   Thoughts of a mountain based software developer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: pvcarrera
 github_username:  jekyll
 
 # Build settings
