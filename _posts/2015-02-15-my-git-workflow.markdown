@@ -47,7 +47,7 @@ git merge new-feature master
 git push origin master
 {% endhighlight %}
 
-Ah, I've forgotten something! I also follow some practises to elaborate my commit messages. Here you have a [post] [commits_guide] I use to refresh my memory when I need to remember the best practises for commit messages.
+Ah, I've forgotten something! I also follow some practices to elaborate my commit messages. Here you have a [post] [commits_guide] I use to refresh my memory when I need to remember the best practices for commit messages.
 
 [branch_flow]: https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 [squash_commits]:  http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
