@@ -1,0 +1,57 @@
+---
+layout:     post
+title:      "Using cURL to test an API"
+date:       2015-03-18 21:33:00
+categories: general
+---
+cURL is a command line tool that can be used, among other things, to make HTTP requests. Its basic syntax is:
+
+{% highlight Bash shell scripts %}
+$ curl http://url/api/resource
+{% endhighlight %}
+When we execute this command, we get the raw response to the http request in the command line.
+
+If you want a better and deeper insight on this cURL command, I recommend you take a look at its `man` page. Here, I'm just going to talk about the options that I use to test APIs and find most useful.
+
+The first option I'd like to talk about is `` -I ``. It reduces the response to headers.
+{% highlight Bash shell scripts %}
+$ curl -I https://github.com
+HTTP/1.1 200 OK
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+.
+.
+{% endhighlight %}
+Another important option is ``-H``. It allows us to add request headers, like Content-Type, accept headers, api-key and so on. Here you have an example of a cURL request to a server, where we want to get a json response from the version 3 of the API using a client key:
+{% highlight Bash shell scripts %}
+$ curl http://server/api/clients
+-H "Content-Type: application/json"
+-H "Accept: application/domain.com; version=3"
+-H "Api-Client-Key: 999AAAWWW"
+{% endhighlight %}
+Once we have set the right headers, it's quite straight forward to execute actions over REST resources. In the next lines, I'll omit the headers in order to improve readability.
+
+GET
+{% highlight Bash shell scripts %}
+curl http://host/users/user_id
+{% endhighlight %}
+
+POST
+{% highlight Bash shell scripts %}
+curl http://host/users POST -d 'params[name]=James'
+{% endhighlight %}
+
+PUT
+{% highlight Bash shell scripts %}
+curl http://host/users/uiser_id PUT -d 'params[name]=James'
+{% endhighlight %}
+
+DELETE
+{% highlight Bash shell scripts %}
+curl DELETE http://host/users/uiser_id
+{% endhighlight %}
+
+To finish this post, I'd like to leave a link to a tool that I really like: the [Chrome plugin Postman - REST client][postman]. It's perfect for those who are not command line friends and/or are looking for a nice interface to make requests to their APIs.
+
+[postman]: https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop
