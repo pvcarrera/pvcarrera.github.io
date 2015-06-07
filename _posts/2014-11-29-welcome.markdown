@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome!"
 date:   2014-11-29 11:27:56
 categories: general
+comments:   true
 ---
 For you who don’t know me, I see myself as a software developer and a sportsman. I’m not entirely
  sure which of both I feel more passionate about.

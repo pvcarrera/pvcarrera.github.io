@@ -3,6 +3,7 @@ layout:     post
 title:      "The web as a platform for building distributed systems"
 date:       2015-04-06 21:20:00
 categories: general
+comments:   true
 ---
 The title and most of the content of this post has been extracted from the book [REST in practice: Hypermedia and Systems Architecture][rest_book]. In it, I found a nice description of the Web architecture, one I'd like to summarise and share here.
 

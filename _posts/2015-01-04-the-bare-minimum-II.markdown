@@ -3,6 +3,7 @@ layout:     post
 title:      "The bare minimum II"
 date:       2015-01-04 16:16:00
 categories: general
+comments:   true
 ---
 In my [previous post]({% post_url 2014-12-14-the-bare-minimum %}), I talked about the minimum workout I practise during
  those periods when my schedule is tight. In this one, I'm going to talk about the minimum practices

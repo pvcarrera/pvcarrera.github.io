@@ -3,6 +3,7 @@ layout:     post
 title:      "Copy to clipboard with Vim and iTerm"
 date:       2015-01-12 19:35:00
 categories: general
+comments:   true
 ---
 Last week I was trying to configure my [Vim][vim] in order to allow it to access my OSX clipboard.
 I tried all the combinations:

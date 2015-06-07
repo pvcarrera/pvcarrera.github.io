@@ -3,6 +3,7 @@ layout:     post
 title:      "The bare minimum"
 date:       2014-12-14 20:00:00
 categories: general
+comments:   true
 ---
 This last month has been full of changes, mainly because I switched work and country. During this period, the time
 I've dedicated to my workout and code training has been reduced.

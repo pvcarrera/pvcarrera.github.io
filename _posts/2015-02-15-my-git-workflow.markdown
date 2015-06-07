@@ -3,6 +3,7 @@ layout:     post
 title:      "My git workflow"
 date:       2015-02-15 19:56:00
 categories: general
+comments:   true
 ---
 In this post, I'm going to write down my git workflow so that the next time I find myself talking/thinking about it, I'll be able to use my blog as a reminder and visual support.
 

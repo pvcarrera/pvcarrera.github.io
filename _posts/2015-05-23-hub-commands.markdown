@@ -3,6 +3,7 @@ layout:     post
 title:      "Hub commands"
 date:       2015-05-23 20:15:00
 categories: general
+comments:   true
 ---
 During these last weeks, I’ve been trying out some Hub commands and finally decided to include some of them in my day to day workflow. Hub is a command line wrapper for Git that adds some GitHub specific functionality.
 

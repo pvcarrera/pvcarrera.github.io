@@ -3,6 +3,7 @@ layout:     post
 title:      "Hooked: How to Build Habit-Forming Products [Book Review]"
 date:       2015-02-03 21:33:00
 categories: general
+comments:   true
 ---
 
 This is my first review about a book, funny because it's also the first book I have ever read about building products.

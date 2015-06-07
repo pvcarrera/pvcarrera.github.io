@@ -3,6 +3,7 @@ layout:     post
 title:      "Heroku Rake tasks"
 date:       2015-06-07 14:41:00
 categories: general
+comments:   true
 ---
 In the project I’m currently working on, we use [Heroku][heroku] as infrasture provider. [Heroku][heroku] has its own command line operations to execute tasks like db backups, managing addons, etc.
 

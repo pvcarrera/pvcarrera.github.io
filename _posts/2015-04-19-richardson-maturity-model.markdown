@@ -3,6 +3,7 @@ layout:     post
 title:      "The Richardson Maturity Model"
 date:       2015-04-19 13:30:00
 categories: general
+comments:   true
 ---
 The Richardson Maturity Model (RMM) describes the level of friendliness, or how close your web services are to the [REST][rest] architecture. In other words, how far your API is from the benefits of [REST][rest]:
 

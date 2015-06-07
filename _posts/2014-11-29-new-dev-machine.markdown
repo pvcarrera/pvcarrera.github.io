@@ -3,6 +3,7 @@ layout:     post
 title:      "New Dev Machine"
 date:       2014-12-07 21:00:00
 categories: technical
+comments:   true
 ---
 Last week, I started to work with a brand new laptop: a Mac Book Pro running Yosemite.
 In this post, I'm going to enumerate the minimun set of tools I need to start to write code in

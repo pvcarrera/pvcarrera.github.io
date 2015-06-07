@@ -3,6 +3,7 @@ layout:     post
 title:      "Using cURL to test an API"
 date:       2015-03-18 21:33:00
 categories: general
+comments:   true
 ---
 cURL is a command line tool that can be used, among other things, to make HTTP requests. Its basic syntax is:
 

@@ -3,6 +3,7 @@ layout:     post
 title:      "Global Day of Coderetreat [Review]"
 date:       2014-11-30 13:00:00
 categories: general
+comments:   true
 ---
 Two weeks ago I had the opportunity to attend the [GDCR][coderetreat] at
  [Pivotal Labs][pivotal] London offices. It was my third time participating in this event.
