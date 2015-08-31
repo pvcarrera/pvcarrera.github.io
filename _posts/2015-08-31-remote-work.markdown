@@ -9,7 +9,7 @@ In my current company, [upmysport][upmysport], the dev team is distributed half 
 
 ##Lifestyle
 
-My lifestyle has experienced a 360 degrees change. Even if I couldn’t complain of my previous life in London, Chamonix fits better with my interests and I can practise the sports I love. In addition to this, working remotely makes it easier for me to travel to other countries to visit family and friends while keeping my workflow going.
+My lifestyle has experienced a 360 degrees change. Even if I couldn’t complain of my previous life in London, Chamonix fits better with my interests and I can practise the sports I love. In addition, working remotely makes it easier for me to travel to other countries to visit family and friends while keeping my workflow going.
 
 The lifestyle factor can seem to benefit only the employee, but I think that thanks to my new way of living my levels of stress and burnout have droped massively.  I now feel fresher, happier and more focused at work, so my productivity is higher than before.
 
