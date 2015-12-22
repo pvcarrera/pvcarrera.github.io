@@ -37,9 +37,9 @@ Value object example:
 {% highlight Ruby %}
 class Address
   attr_reader :street, :postcode
-  def initialize(street, post_code)
+  def initialize(street, postcode)
     @street = street
-    @post_code = post_code
+    @postcode = postcode
     freeze
   end
   def ==(other)
