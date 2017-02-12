@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/pvcarrera
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pvcarrera.github.io
+  * I am pvcarrera (https://keybase.io/pvcarrera) on keybase.
+  * I have a public key ASD2IKHgEWuJXcWyDXpI5QUfHHfYtxZmuwIQxS5plyrXGgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d830ec0274608d26e04a4c4f5e2fc94c721469a20b00eaa6732038cef3e28e6b0a",
+            "host": "keybase.io",
+            "kid": "0120f620a1e0116b895dc5b20d7a48e5051f1c77d8b71666bb0210c52e69972ad71a0a",
+            "uid": "37c3b41f88ddb14296889c294458dd19",
+            "username": "pvcarrera"
+        },
+        "service": {
+            "hostname": "pvcarrera.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486930046,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486930017,
+        "hash": "0f8d1c61a3314bf0da8ad060cac8041c30acdfcb6f2257db2656073aee465a57b930b5c378f07806d247cb71901e0fdb1f86b34f9437e7ae5eb91350c232f074",
+        "seqno": 881485
+    },
+    "prev": "725a08b96f10e15ee71221c4d00371557bc9284d4d7ba65eabcf1991d05a2095",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9iCh4BFriV3Fsg16SOUFHxx32LcWZrsCEMUuaZcq1xoKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZDgzMGVjMDI3NDYwOGQyNmUwNGE0YzRmNWUyZmM5NGM3MjE0NjlhMjBiMDBlYWE2NzMyMDM4Y2VmM2UyOGU2YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjYyMGExZTAxMTZiODk1ZGM1YjIwZDdhNDhlNTA1MWYxYzc3ZDhiNzE2NjZiYjAyMTBjNTJlNjk5NzJhZDcxYTBhIiwidWlkIjoiMzdjM2I0MWY4OGRkYjE0Mjk2ODg5YzI5NDQ1OGRkMTkiLCJ1c2VybmFtZSI6InB2Y2FycmVyYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicHZjYXJyZXJhLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg2OTMwMDQ2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODY5MzAwMTcsImhhc2giOiIwZjhkMWM2MWEzMzE0YmYwZGE4YWQwNjBjYWM4MDQxYzMwYWNkZmNiNmYyMjU3ZGIyNjU2MDczYWVlNDY1YTU3YjkzMGI1YzM3OGYwNzgwNmQyNDdjYjcxOTAxZTBmZGIxZjg2YjM0Zjk0MzdlN2FlNWViOTEzNTBjMjMyZjA3NCIsInNlcW5vIjo4ODE0ODV9LCJwcmV2IjoiNzI1YTA4Yjk2ZjEwZTE1ZWU3MTIyMWM0ZDAwMzcxNTU3YmM5Mjg0ZDRkN2JhNjVlYWJjZjE5OTFkMDVhMjA5NSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDVj1wyGuuwjtrmNzpXyCU+0cDK/HpTZWvZbux6yj2E6GWs6zE+R8XUqa0eGk3vcd5qSMI3tA50VwXM9tlDqhIKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgFRZqWGZwntZS/HW5xqL3vepMJJJRZJ4oDY3/LJIKCb2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pvcarrera
+
+==================================================================
